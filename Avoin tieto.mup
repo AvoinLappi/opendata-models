@@ -1,0 +1,51 @@
+{
+  "title": "Avoin tieto",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "m‰‰ritykset",
+      "id": 7
+    },
+    "2": {
+      "title": "kohdealueet",
+      "id": 9
+    },
+    "-1": {
+      "title": "roolit",
+      "id": 8,
+      "attr": {
+        "position": [
+          159.10557280900014,
+          4,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "l‰hde",
+          "id": 13
+        },
+        "2": {
+          "title": "tuottaja",
+          "id": 14
+        },
+        "3": {
+          "title": "jalostaja",
+          "id": 15
+        },
+        "4": {
+          "title": "k‰ytt‰j‰",
+          "id": 16,
+          "ideas": {}
+        },
+        "5": {
+          "title": "omistaja",
+          "id": 18
+        }
+      }
+    }
+  },
+  "links": []
+}
