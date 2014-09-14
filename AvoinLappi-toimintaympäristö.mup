@@ -9,9 +9,9 @@
       "attr": {
         "style": {},
         "position": [
-          858.5,
-          226.5,
-          93
+          792.5,
+          146,
+          116
         ]
       },
       "ideas": {
@@ -99,22 +99,10 @@
           "attr": {
             "style": {},
             "position": [
-              295,
-              -405,
-              34
+              220,
+              -238.5,
+              42
             ]
-          }
-        },
-        "3.875": {
-          "title": "Yksityinen",
-          "id": 50,
-          "attr": {
-            "position": [
-              557,
-              51,
-              37
-            ],
-            "style": {}
           }
         },
         "2.1953125": {
@@ -136,42 +124,13 @@
             "4": {
               "title": "Arktinen keskus",
               "id": 84
-            },
-            "5": {
-              "title": "Alue",
-              "id": 9,
-              "ideas": {
-                "2": {
-                  "title": "Kylä",
-                  "id": 51
-                },
-                "13": {
-                  "title": "Kunta",
-                  "id": 14,
-                  "attr": {
-                    "style": {},
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
-                    }
-                  },
-                  "ideas": {}
-                },
-                "7.5": {
-                  "title": "Kansalaiset",
-                  "id": 52
-                }
-              },
-              "attr": {
-                "style": {}
-              }
             }
           },
           "attr": {
             "position": [
-              861,
-              -226,
-              36
+              614,
+              57.5,
+              40
             ],
             "style": {}
           }
@@ -182,9 +141,9 @@
           "attr": {
             "style": {},
             "position": [
-              204,
-              -256,
-              35
+              298,
+              -95.5,
+              41
             ]
           },
           "ideas": {
@@ -203,6 +162,52 @@
               }
             }
           }
+        },
+        "4.875": {
+          "title": "Alue",
+          "id": 9,
+          "ideas": {
+            "2": {
+              "title": "Kylä",
+              "id": 51
+            },
+            "13": {
+              "title": "Kunta",
+              "id": 14,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
+                }
+              },
+              "ideas": {}
+            },
+            "7.5": {
+              "title": "Kansalaiset",
+              "id": 52
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              395,
+              212.5,
+              43
+            ]
+          }
+        },
+        "14.875": {
+          "title": "Yksityinen",
+          "id": 50,
+          "attr": {
+            "position": [
+              165,
+              421,
+              44
+            ],
+            "style": {}
+          }
         }
       },
       "attr": {
@@ -220,9 +225,9 @@
       "attr": {
         "style": {},
         "position": [
-          210.5,
-          -455.5,
-          84
+          250.5,
+          -540,
+          115
         ],
         "storyboard-scenes": [
           {
@@ -247,81 +252,15 @@
         }
       }
     },
-    "12.25": {
-      "title": "Teknologiat",
-      "id": 7,
-      "attr": {
-        "position": [
-          627.5,
-          -259.5,
-          92
-        ],
-        "style": {}
-      },
-      "ideas": {
-        "2": {
-          "title": "Tietojärjestelmät",
-          "id": 70,
-          "attr": {
-            "position": [
-              118,
-              -124,
-              1
-            ],
-            "style": {}
-          }
-        },
-        "4": {
-          "title": "Ohjelmistot",
-          "id": 72
-        },
-        "5": {
-          "title": "Standardit",
-          "id": 73
-        },
-        "6": {
-          "title": "Integraatiot",
-          "id": 74
-        },
-        "7": {
-          "title": "Tietoliikenne",
-          "id": 76
-        }
-      }
-    },
-    "-11": {
-      "title": "T&K-hankkeet ja ohjelmat",
-      "id": 17,
-      "attr": {
-        "style": {},
-        "position": [
-          332.5,
-          284.5,
-          81
-        ]
-      }
-    },
-    "-21": {
-      "title": "Rahoitus",
-      "id": 4,
-      "attr": {
-        "position": [
-          215.5,
-          413.5,
-          83
-        ],
-        "style": {}
-      }
-    },
     "22.25": {
       "title": "SIsältö",
       "id": 75,
       "attr": {
         "style": {},
         "position": [
-          357.5,
-          -85.5,
-          91
+          736.5,
+          -331,
+          114
         ]
       },
       "ideas": {
@@ -414,6 +353,72 @@
             ]
           }
         }
+      }
+    },
+    "-21": {
+      "title": "T&K-hankkeet ja ohjelmat",
+      "id": 17,
+      "attr": {
+        "style": {},
+        "position": [
+          198.5,
+          276,
+          113
+        ]
+      }
+    },
+    "32.25": {
+      "title": "Teknologiat",
+      "id": 7,
+      "attr": {
+        "position": [
+          400.5,
+          126,
+          109
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "2": {
+          "title": "Tietojärjestelmät",
+          "id": 70,
+          "attr": {
+            "position": [
+              118,
+              -124,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Ohjelmistot",
+          "id": 72
+        },
+        "5": {
+          "title": "Standardit",
+          "id": 73
+        },
+        "6": {
+          "title": "Integraatiot",
+          "id": 74
+        },
+        "7": {
+          "title": "Tietoliikenne",
+          "id": 76
+        }
+      }
+    },
+    "42.25": {
+      "title": "Rahoitus",
+      "id": 4,
+      "attr": {
+        "position": [
+          288.5,
+          357,
+          112
+        ],
+        "style": {}
       }
     }
   },
