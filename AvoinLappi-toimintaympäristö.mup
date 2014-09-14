@@ -105,36 +105,6 @@
             ]
           }
         },
-        "2.1953125": {
-          "title": "Julkinen",
-          "id": 80,
-          "ideas": {
-            "1": {
-              "title": "LUC",
-              "id": 81
-            },
-            "2": {
-              "title": "ILmatieteenlaitos",
-              "id": 82
-            },
-            "3": {
-              "title": "SGO",
-              "id": 83
-            },
-            "4": {
-              "title": "Arktinen keskus",
-              "id": 84
-            }
-          },
-          "attr": {
-            "position": [
-              614,
-              57.5,
-              40
-            ],
-            "style": {}
-          }
-        },
         "2.09765625": {
           "title": "Kansallinen",
           "id": 12,
@@ -161,6 +131,36 @@
                 }
               }
             }
+          }
+        },
+        "2.1953125": {
+          "title": "Julkinen",
+          "id": 80,
+          "ideas": {
+            "1": {
+              "title": "LUC",
+              "id": 81
+            },
+            "2": {
+              "title": "ILmatieteenlaitos",
+              "id": 82
+            },
+            "3": {
+              "title": "SGO",
+              "id": 83
+            },
+            "4": {
+              "title": "Arktinen keskus",
+              "id": 84
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              614,
+              57.5,
+              40
+            ]
           }
         },
         "4.875": {
@@ -201,12 +201,12 @@
           "title": "Yksityinen",
           "id": 50,
           "attr": {
+            "style": {},
             "position": [
               165,
               421,
               44
-            ],
-            "style": {}
+            ]
           }
         }
       },
