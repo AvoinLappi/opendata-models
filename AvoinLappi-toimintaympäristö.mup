@@ -62,18 +62,6 @@
         }
       }
     },
-    "-41": {
-      "title": "Rahoitus",
-      "id": 4,
-      "attr": {
-        "position": [
-          177,
-          152.5,
-          3
-        ],
-        "style": {}
-      }
-    },
     "-0.5": {
       "title": "Toimijat",
       "id": 2,
@@ -83,6 +71,14 @@
           "id": 9,
           "ideas": {
             "1": {
+              "title": "Kansalaiset",
+              "id": 52
+            },
+            "2": {
+              "title": "Kylä",
+              "id": 51
+            },
+            "13": {
               "title": "Kunta",
               "id": 14,
               "attr": {
@@ -93,14 +89,6 @@
                 }
               },
               "ideas": {}
-            },
-            "2": {
-              "title": "Kylä",
-              "id": 51
-            },
-            "3": {
-              "title": "Kansalaiset",
-              "id": 52
             }
           },
           "attr": {
@@ -179,25 +167,6 @@
         "style": {}
       }
     },
-    "0.625": {
-      "title": "Lainsäädäntö ja viranomaismääräykset",
-      "id": 6,
-      "attr": {
-        "style": {},
-        "position": [
-          179,
-          -217.5,
-          9
-        ],
-        "storyboard-scenes": [
-          {
-            "storyboards": {
-              "Storyboard 1": 1
-            }
-          }
-        ]
-      }
-    },
     "0.9375": {
       "title": "T&K-hankkeet ja ohjelmat",
       "id": 17,
@@ -226,56 +195,95 @@
           "title": "Tieto",
           "id": 57
         },
-        "4": {
-          "title": "Katalogi",
-          "id": 58
-        },
-        "5": {
-          "title": "API",
-          "id": 59
-        },
         "6": {
           "title": "Palvelu",
-          "id": 61
+          "id": 61,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "API",
+              "id": 59,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Katalogi",
+              "id": 58,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            }
+          }
+        },
+        "7": {
+          "title": "Roolit",
+          "id": 39,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Lähde / tuottaja",
+              "id": 41
+            },
+            "2": {
+              "title": "Jalostaja",
+              "id": 42,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Välittäjä",
+              "id": 44
+            },
+            "4": {
+              "title": "Hyödyntäjä",
+              "id": 45
+            },
+            "0.5": {
+              "title": "Omistaja",
+              "id": 49,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
-    "1.09375": {
-      "title": "Roolit",
-      "id": 39,
+    "-61": {
+      "title": "Lainsäädäntö ja viranomaismääritykset",
+      "id": 6,
+      "attr": {
+        "style": {},
+        "position": [
+          343,
+          303.5,
+          14
+        ],
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ]
+      }
+    },
+    "0.46875": {
+      "title": "Rahoitus",
+      "id": 4,
       "attr": {
         "position": [
-          348.5,
-          46.5,
-          12
+          325,
+          -198.5,
+          15
         ],
         "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "Lähde / tuottaja",
-          "id": 41
-        },
-        "2": {
-          "title": "Jalostaja",
-          "id": 42,
-          "ideas": {}
-        },
-        "3": {
-          "title": "Välittäjä",
-          "id": 44
-        },
-        "4": {
-          "title": "Hyödyntäjä",
-          "id": 45
-        },
-        "0.5": {
-          "title": "Omistaja",
-          "id": 49,
-          "attr": {
-            "style": {}
-          }
-        }
       }
     },
     "-51": {
@@ -283,8 +291,8 @@
       "id": 7,
       "attr": {
         "position": [
-          186.5,
-          383.5,
+          176,
+          278.5,
           13
         ],
         "style": {}
