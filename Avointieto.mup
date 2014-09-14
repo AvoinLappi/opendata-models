@@ -4,12 +4,28 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "m√§√§ritykset",
-      "id": 7
+      "title": "m‰‰ritykset",
+      "id": 7,
+      "attr": {
+        "position": [
+          134,
+          -113,
+          4
+        ],
+        "style": {}
+      }
     },
     "2": {
       "title": "kohdealueet",
-      "id": 9
+      "id": 9,
+      "attr": {
+        "position": [
+          138,
+          81,
+          5
+        ],
+        "style": {}
+      }
     },
     "-1": {
       "title": "roolit",
@@ -24,7 +40,7 @@
       },
       "ideas": {
         "1": {
-          "title": "l√§hde",
+          "title": "l‰hde",
           "id": 13
         },
         "2": {
@@ -36,7 +52,7 @@
           "id": 15
         },
         "4": {
-          "title": "k√§ytt√§j√§",
+          "title": "k‰ytt‰j‰",
           "id": 16,
           "ideas": {}
         },
@@ -47,5 +63,50 @@
       }
     }
   },
-  "links": []
+  "links": [],
+  "attr": {
+    "progress-statuses": {
+      "": {
+        "description": "Not Started",
+        "priority": 1,
+        "style": {
+          "background": false
+        }
+      },
+      "passing": {
+        "description": "Done",
+        "style": {
+          "background": "#00CC00"
+        }
+      },
+      "under-review": {
+        "description": "Under review",
+        "style": {
+          "background": "#00CCFF"
+        }
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "priority": 3,
+        "style": {
+          "background": "#FFCC00"
+        }
+      },
+      "blocked": {
+        "description": "Blocked",
+        "priority": 4,
+        "style": {
+          "background": "#990033"
+        }
+      },
+      "parked": {
+        "description": "Parked",
+        "priority": 2,
+        "style": {
+          "background": "#FF3300"
+        }
+      }
+    },
+    "style": {}
+  }
 }
