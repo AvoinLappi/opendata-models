@@ -1,5 +1,5 @@
 {
-  "title": "AvoinLappi-toimintaympäristö",
+  "title": "AvoinLappi-toimintaympäristö (Open Data Lapland Ecosystem)",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -8,7 +8,11 @@
       "id": 3,
       "attr": {
         "style": {},
-        "collapsed": true
+        "position": [
+          856.5,
+          102.5,
+          87
+        ]
       },
       "ideas": {
         "1": {
@@ -66,59 +70,7 @@
       "title": "Toimijat",
       "id": 2,
       "ideas": {
-        "1": {
-          "title": "Alue",
-          "id": 9,
-          "ideas": {
-            "1": {
-              "title": "Kansalaiset",
-              "id": 52
-            },
-            "2": {
-              "title": "Kylä",
-              "id": 51
-            },
-            "13": {
-              "title": "Kunta",
-              "id": 14,
-              "attr": {
-                "style": {},
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
-                }
-              },
-              "ideas": {}
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        },
         "2": {
-          "title": "Kansallinen",
-          "id": 12,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {
-            "1": {
-              "title": "OKFFI",
-              "id": 64,
-              "ideas": {
-                "1": {
-                  "title": "Alueet",
-                  "id": 66
-                },
-                "2": {
-                  "title": "Teemat",
-                  "id": 67
-                }
-              }
-            }
-          }
-        },
-        "3": {
           "title": "Kansainvälinen",
           "id": 13,
           "ideas": {
@@ -145,64 +97,251 @@
             }
           },
           "attr": {
+            "style": {},
             "position": [
-              96,
-              115,
-              2
+              228,
+              -326,
+              27
+            ]
+          }
+        },
+        "3.875": {
+          "title": "Yksityinen",
+          "id": 50,
+          "attr": {
+            "position": [
+              184,
+              264,
+              14
+            ],
+            "style": {}
+          }
+        },
+        "2.78125": {
+          "title": "Julkinen",
+          "id": 80,
+          "ideas": {
+            "1": {
+              "title": "LUC",
+              "id": 81
+            },
+            "2": {
+              "title": "ILmatieteenlaitos",
+              "id": 82
+            },
+            "3": {
+              "title": "SGO",
+              "id": 83
+            },
+            "4": {
+              "title": "Arktinen keskus",
+              "id": 84
+            },
+            "5": {
+              "title": "Alue",
+              "id": 9,
+              "ideas": {
+                "2": {
+                  "title": "Kylä",
+                  "id": 51
+                },
+                "13": {
+                  "title": "Kunta",
+                  "id": 14,
+                  "attr": {
+                    "style": {},
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "7.5": {
+                  "title": "Kansalaiset",
+                  "id": 52
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              225,
+              -16,
+              25
+            ],
+            "style": {}
+          }
+        },
+        "2.390625": {
+          "title": "Kansallinen",
+          "id": 12,
+          "attr": {
+            "style": {},
+            "position": [
+              213,
+              -198,
+              26
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "OKFFI",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Alueet",
+                  "id": 66
+                },
+                "2": {
+                  "title": "Teemat",
+                  "id": 67
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          195.5,
+          -270.5,
+          79
+        ],
+        "style": {}
+      }
+    },
+    "0.234375": {
+      "title": "Lainsäädäntö ja viranomaismääräykset",
+      "id": 6,
+      "attr": {
+        "style": {},
+        "position": [
+          210.5,
+          -455.5,
+          84
+        ],
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "VM: yhteeentomivuus, tietohallintolaki, avoindata-ohjelma",
+          "id": 77
+        },
+        "2": {
+          "title": "Juhta-suositukset / KA-menetelmä",
+          "id": 78
+        },
+        "3": {
+          "title": "Tietoturva ja yksityisyydensuoja",
+          "id": 79
+        }
+      }
+    },
+    "12.25": {
+      "title": "Teknologiat",
+      "id": 7,
+      "attr": {
+        "position": [
+          627.5,
+          -259.5,
+          92
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "2": {
+          "title": "Tietojärjestelmät",
+          "id": 70,
+          "attr": {
+            "position": [
+              118,
+              -124,
+              1
             ],
             "style": {}
           }
         },
         "4": {
-          "title": "Yksityinen",
-          "id": 50
+          "title": "Ohjelmistot",
+          "id": 72
+        },
+        "5": {
+          "title": "Standardit",
+          "id": 73
+        },
+        "6": {
+          "title": "Integraatiot",
+          "id": 74
+        },
+        "7": {
+          "title": "Tietoliikenne",
+          "id": 76
         }
-      },
-      "attr": {
-        "position": [
-          216,
-          -153.5,
-          5
-        ],
-        "style": {}
       }
     },
-    "0.9375": {
+    "-11": {
       "title": "T&K-hankkeet ja ohjelmat",
       "id": 17,
       "attr": {
         "style": {},
         "position": [
-          228,
-          -54.5,
-          8
+          332.5,
+          284.5,
+          81
         ]
       }
     },
-    "2.25": {
-      "title": "Sisältö",
-      "id": 53,
+    "-21": {
+      "title": "Rahoitus",
+      "id": 4,
+      "attr": {
+        "position": [
+          215.5,
+          413.5,
+          83
+        ],
+        "style": {}
+      }
+    },
+    "22.25": {
+      "title": "SIsältö",
+      "id": 75,
+      "attr": {
+        "style": {},
+        "position": [
+          357.5,
+          -85.5,
+          91
+        ]
+      },
       "ideas": {
-        "1": {
-          "title": "Data",
-          "id": 55
-        },
-        "2": {
-          "title": "Informaatio",
-          "id": 56
-        },
         "3": {
           "title": "Tieto",
-          "id": 57
-        },
-        "6": {
-          "title": "Palvelu",
-          "id": 61,
+          "id": 57,
           "attr": {
-            "style": {}
-          },
+            "style": {},
+            "position": [
+              84,
+              65,
+              3
+            ]
+          }
+        },
+        "5": {
+          "title": "Palvelu",
+          "id": 53,
           "ideas": {
-            "1": {
+            "9": {
               "title": "API",
               "id": 59,
               "ideas": {},
@@ -210,7 +349,7 @@
                 "style": {}
               }
             },
-            "2": {
+            "10": {
               "title": "Katalogi",
               "id": 58,
               "attr": {
@@ -218,9 +357,12 @@
               },
               "ideas": {}
             }
+          },
+          "attr": {
+            "style": {}
           }
         },
-        "7": {
+        "6": {
           "title": "Roolit",
           "id": 39,
           "attr": {
@@ -228,7 +370,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Lähde / tuottaja",
+              "title": "Lähde  / tuottaja",
               "id": 41
             },
             "2": {
@@ -252,50 +394,26 @@
               }
             }
           }
-        }
-      }
-    },
-    "-61": {
-      "title": "Lainsäädäntö ja viranomaismääritykset",
-      "id": 6,
-      "attr": {
-        "style": {},
-        "position": [
-          343,
-          303.5,
-          14
-        ],
-        "storyboard-scenes": [
-          {
-            "storyboards": {
-              "Storyboard 1": 1
-            }
+        },
+        "0.5": {
+          "title": "Informaatio",
+          "id": 56,
+          "attr": {
+            "style": {}
           }
-        ]
-      }
-    },
-    "0.46875": {
-      "title": "Rahoitus",
-      "id": 4,
-      "attr": {
-        "position": [
-          325,
-          -198.5,
-          15
-        ],
-        "style": {}
-      }
-    },
-    "-51": {
-      "title": "Teknologiat",
-      "id": 7,
-      "attr": {
-        "position": [
-          176,
-          278.5,
-          13
-        ],
-        "style": {}
+        },
+        "0.25": {
+          "title": "Data",
+          "id": 55,
+          "attr": {
+            "style": {},
+            "position": [
+              110,
+              -70,
+              4
+            ]
+          }
+        }
       }
     }
   },
