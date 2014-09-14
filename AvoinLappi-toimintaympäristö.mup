@@ -84,7 +84,28 @@
         "1": {
           "title": "Alue",
           "id": 9,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Kunta",
+              "id": 14,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
+                }
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Kylä",
+              "id": 51
+            },
+            "3": {
+              "title": "Kansalaiset",
+              "id": 52
+            }
+          },
           "attr": {
             "style": {}
           }
@@ -134,23 +155,6 @@
         "4": {
           "title": "Yksityinen",
           "id": 50
-        },
-        "0.5": {
-          "title": "Kunta",
-          "id": 14,
-          "attr": {
-            "position": [
-              91,
-              -125,
-              3
-            ],
-            "style": {},
-            "attachment": {
-              "contentType": "text/html",
-              "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
-            }
-          },
-          "ideas": {}
         }
       },
       "attr": {
