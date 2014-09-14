@@ -1,7 +1,8 @@
-opendata-conceptualization
-==========================
+Avoimen tiedon käsitemallinnus (conceptualizing opendata)
+===========================================================
 
-(Conceptual approaches, models, diagrams and specifications of #opendata)
+Avoimen datan ja tiedon käsiteperheen määrityksiä, kuvauksia, malleja ja diagrammeja.
 
-Aoimen datan ja tiedon sekä näihin littyvien käsitteiden 
-määrityksiä, kuvauksia, malleja ja hahmotelmia.
+(Conceptual approaches, models, diagrams and specifications of #opendata and #openknowledge)
+
+
