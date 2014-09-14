@@ -131,6 +131,10 @@
             "style": {}
           }
         },
+        "4": {
+          "title": "Yksityinen",
+          "id": 50
+        },
         "0.5": {
           "title": "Kunta",
           "id": 14,
@@ -187,6 +191,44 @@
           -54.5,
           8
         ]
+      }
+    },
+    "-0.25": {
+      "title": "Roolit",
+      "id": 39,
+      "attr": {
+        "position": [
+          184,
+          -266.5,
+          10
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Lähde / tuottaja",
+          "id": 41
+        },
+        "2": {
+          "title": "Jalostaja",
+          "id": 42,
+          "ideas": {}
+        },
+        "3": {
+          "title": "Välittäjä",
+          "id": 44
+        },
+        "4": {
+          "title": "Hyödyntäjä",
+          "id": 45
+        },
+        "0.5": {
+          "title": "Omistaja",
+          "id": 49,
+          "attr": {
+            "style": {}
+          }
+        }
       }
     }
   },
