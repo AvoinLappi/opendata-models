@@ -1,5 +1,126 @@
 {
   "title": "AvoinLappi-toimintaympäristö",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "-1": {
+      "title": "Toimialat",
+      "id": 3
+    },
+    "-41": {
+      "title": "Rahoitus",
+      "id": 4,
+      "attr": {
+        "position": [
+          177,
+          152.5,
+          3
+        ],
+        "style": {}
+      }
+    },
+    "1.25": {
+      "title": "Teknologiat",
+      "id": 7,
+      "attr": {
+        "position": [
+          247,
+          184.5,
+          7
+        ],
+        "style": {}
+      }
+    },
+    "-0.5": {
+      "title": "Toimijat",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Alue",
+          "id": 9,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Kansallinen",
+          "id": 12
+        },
+        "3": {
+          "title": "Kansainvälinen",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "OKFN",
+              "id": 15
+            },
+            "2": {
+              "title": "ODI",
+              "id": 16
+            },
+            "3": {
+              "title": "EU",
+              "id": 26
+            }
+          },
+          "attr": {
+            "position": [
+              96,
+              115,
+              2
+            ],
+            "style": {}
+          }
+        },
+        "0.5": {
+          "title": "Kunta",
+          "id": 14,
+          "attr": {
+            "position": [
+              91,
+              -125,
+              3
+            ],
+            "style": {},
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
+            }
+          },
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "position": [
+          216,
+          -153.5,
+          5
+        ],
+        "style": {}
+      }
+    },
+    "0.625": {
+      "title": "Lainsäädäntö ja viranomaismääräykset",
+      "id": 6,
+      "attr": {
+        "style": {},
+        "position": [
+          166,
+          -215.5,
+          6
+        ]
+      }
+    },
+    "0.9375": {
+      "title": "T&K-hankkeet ja ohjelmat",
+      "id": 17,
+      "attr": {
+        "style": {},
+        "position": [
+          228,
+          -54.5,
+          8
+        ]
+      }
+    }
+  },
+  "links": []
 }
