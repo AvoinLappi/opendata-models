@@ -7,7 +7,8 @@
       "title": "Toimialat",
       "id": 3,
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -50,6 +51,14 @@
         "9": {
           "title": "Luonto",
           "id": 38
+        },
+        "10": {
+          "title": "Palvelumuotoilu",
+          "id": 62
+        },
+        "11": {
+          "title": "Taide",
+          "id": 63
         }
       }
     },
@@ -61,18 +70,6 @@
           177,
           152.5,
           3
-        ],
-        "style": {}
-      }
-    },
-    "1.25": {
-      "title": "Teknologiat",
-      "id": 7,
-      "attr": {
-        "position": [
-          247,
-          184.5,
-          7
         ],
         "style": {}
       }
@@ -115,6 +112,22 @@
           "id": 12,
           "attr": {
             "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "OKFFI",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Alueet",
+                  "id": 66
+                },
+                "2": {
+                  "title": "Teemat",
+                  "id": 67
+                }
+              }
+            }
           }
         },
         "3": {
@@ -197,14 +210,44 @@
         ]
       }
     },
-    "-0.25": {
+    "2.25": {
+      "title": "Sisältö",
+      "id": 53,
+      "ideas": {
+        "1": {
+          "title": "Data",
+          "id": 55
+        },
+        "2": {
+          "title": "Informaatio",
+          "id": 56
+        },
+        "3": {
+          "title": "Tieto",
+          "id": 57
+        },
+        "4": {
+          "title": "Katalogi",
+          "id": 58
+        },
+        "5": {
+          "title": "API",
+          "id": 59
+        },
+        "6": {
+          "title": "Palvelu",
+          "id": 61
+        }
+      }
+    },
+    "1.09375": {
       "title": "Roolit",
       "id": 39,
       "attr": {
         "position": [
-          184,
-          -266.5,
-          10
+          348.5,
+          46.5,
+          12
         ],
         "style": {}
       },
@@ -233,6 +276,18 @@
             "style": {}
           }
         }
+      }
+    },
+    "-51": {
+      "title": "Teknologiat",
+      "id": 7,
+      "attr": {
+        "position": [
+          186.5,
+          383.5,
+          13
+        ],
+        "style": {}
       }
     }
   },
