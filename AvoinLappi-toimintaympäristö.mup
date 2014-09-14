@@ -5,7 +5,53 @@
   "ideas": {
     "-1": {
       "title": "Toimialat",
-      "id": 3
+      "id": 3,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Terveys",
+          "id": 28
+        },
+        "2": {
+          "title": "Media",
+          "id": 29,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Kunnallistekniikka",
+          "id": 30,
+          "ideas": {}
+        },
+        "4": {
+          "title": "Turvallisuus",
+          "id": 32,
+          "ideas": {}
+        },
+        "5": {
+          "title": "Matkailu",
+          "id": 34
+        },
+        "6": {
+          "title": "Koulutus",
+          "id": 35
+        },
+        "7": {
+          "title": "Liikenne",
+          "id": 36
+        },
+        "8": {
+          "title": "Energia",
+          "id": 37
+        },
+        "9": {
+          "title": "Luonto",
+          "id": 38
+        }
+      }
     },
     "-41": {
       "title": "Rahoitus",
@@ -38,11 +84,17 @@
         "1": {
           "title": "Alue",
           "id": 9,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
         },
         "2": {
           "title": "Kansallinen",
-          "id": 12
+          "id": 12,
+          "attr": {
+            "style": {}
+          }
         },
         "3": {
           "title": "Kansainvälinen",
@@ -50,15 +102,24 @@
           "ideas": {
             "1": {
               "title": "OKFN",
-              "id": 15
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
             },
             "2": {
               "title": "ODI",
-              "id": 16
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
             },
             "3": {
               "title": "EU",
-              "id": 26
+              "id": 26,
+              "attr": {
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -103,9 +164,16 @@
       "attr": {
         "style": {},
         "position": [
-          166,
-          -215.5,
-          6
+          179,
+          -217.5,
+          9
+        ],
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
         ]
       }
     },
@@ -122,5 +190,11 @@
       }
     }
   },
-  "links": []
+  "links": [],
+  "attr": {
+    "style": {},
+    "storyboards": [
+      "Storyboard 1"
+    ]
+  }
 }
