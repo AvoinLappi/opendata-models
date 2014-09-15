@@ -1,4 +1,4 @@
-Avoimen tiedon malleja ja ekosysteemjä (opendata models and ecosystems)
+Avoimen tiedon malleja ja ekosysteemejä (opendata models and ecosystems)
 ===========================================================
 
 Avoimen datan ja tiedon käsiteperheen määrityksiä, kuvauksia, malleja, diagrammeja ja ekosysteemjä
