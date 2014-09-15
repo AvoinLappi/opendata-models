@@ -7,62 +7,129 @@
       "title": "Toimialat",
       "id": 3,
       "attr": {
-        "style": {},
+        "style": {
+          "background": "#ffff99"
+        },
         "position": [
-          792.5,
-          146,
-          116
+          409.3750000000001,
+          -33.81250000000023,
+          131
         ]
       },
       "ideas": {
         "1": {
           "title": "Terveys",
-          "id": 28
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "2": {
           "title": "Media",
           "id": 29,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Palvelumuotoilu",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            },
+            "2": {
+              "title": "Taide",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
           }
         },
         "3": {
           "title": "Kunnallistekniikka",
           "id": 30,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "4": {
           "title": "Turvallisuus",
           "id": 32,
-          "ideas": {}
-        },
-        "5": {
-          "title": "Matkailu",
-          "id": 34
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "6": {
-          "title": "Koulutus",
-          "id": 35
+          "title": "Koulutus, opetus, tutkimus",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "7": {
           "title": "Liikenne",
-          "id": 36
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "8": {
           "title": "Energia",
-          "id": 37
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "9": {
           "title": "Luonto",
-          "id": 38
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "Matkailu",
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         },
         "10": {
-          "title": "Palvelumuotoilu",
-          "id": 62
-        },
-        "11": {
-          "title": "Taide",
-          "id": 63
+          "title": "Johtamine, hallinto, päätöksenteko",
+          "id": 122,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
         }
       }
     },
@@ -78,30 +145,38 @@
               "title": "OKFN",
               "id": 15,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#ccffff"
+                }
               }
             },
             "2": {
               "title": "ODI",
               "id": 16,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#ccffff"
+                }
               }
             },
-            "3": {
+            "0.5": {
               "title": "EU",
               "id": 26,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#ccffff"
+                }
               }
             }
           },
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#ccffff"
+            },
             "position": [
-              220,
-              -238.5,
-              42
+              108.6875,
+              -236.6875,
+              47
             ]
           }
         },
@@ -109,11 +184,13 @@
           "title": "Kansallinen",
           "id": 12,
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#ccffff"
+            },
             "position": [
-              298,
-              -95.5,
-              41
+              297.3124999999999,
+              -88.25,
+              48
             ]
           },
           "ideas": {
@@ -123,44 +200,56 @@
               "ideas": {
                 "1": {
                   "title": "Alueet",
-                  "id": 66
+                  "id": 66,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Teemat",
-                  "id": 67
+                  "id": 67,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "2": {
+              "title": "Tivia",
+              "id": 114,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "3": {
+              "title": "Kuntaliitto",
+              "id": 115,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "4": {
+              "title": "Kuntien Tiera",
+              "id": 116,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
                 }
               }
             }
-          }
-        },
-        "2.1953125": {
-          "title": "Julkinen",
-          "id": 80,
-          "ideas": {
-            "1": {
-              "title": "LUC",
-              "id": 81
-            },
-            "2": {
-              "title": "ILmatieteenlaitos",
-              "id": 82
-            },
-            "3": {
-              "title": "SGO",
-              "id": 83
-            },
-            "4": {
-              "title": "Arktinen keskus",
-              "id": 84
-            }
-          },
-          "attr": {
-            "style": {},
-            "position": [
-              614,
-              57.5,
-              40
-            ]
           }
         },
         "4.875": {
@@ -169,65 +258,319 @@
           "ideas": {
             "2": {
               "title": "Kylä",
-              "id": 51
+              "id": 51,
+              "attr": {
+                "position": [
+                  155.68749999999977,
+                  -406.24999999999966,
+                  12
+                ],
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
             },
-            "13": {
+            "8": {
               "title": "Kunta",
               "id": 14,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ccffff"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "<span style=\"background-color: transparent;\"><b><font size=\"3\"><a target=\"_blank\" href=\"http://www.lappi.fi/kunnat\">Lapin kunnat</a></font></b><br><br><br><br></span>"
+                },
+                "position": [
+                  212.87499999999977,
+                  -262.4999999999998,
+                  11
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "LapIT",
+                  "id": 90,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Tietohallinto",
+                  "id": 91,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                }
+              }
+            },
+            "14": {
+              "title": "Yksityinen",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                },
+                "position": [
+                  164.74023437499932,
+                  -64.77636718749966,
+                  14
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Kaivosala",
+                  "id": 86,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Matkailuyritykset",
+                  "id": 113,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Muu teollisuus",
+                  "id": 118,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Kauppa- ja palveluala",
+                  "id": 119,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "Julkinen",
+              "id": 80,
+              "ideas": {
+                "1": {
+                  "title": "LUC",
+                  "id": 81,
+                  "ideas": {
+                    "1": {
+                      "title": "LapinAMK",
+                      "id": 104,
+                      "ideas": {
+                        "1": {
+                          "title": "MTI",
+                          "id": 106,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "PLab",
+                          "id": 107,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "Arctiv PoweLab",
+                          "id": 108,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "LaY",
+                      "id": 105,
+                      "ideas": {
+                        "1": {
+                          "title": "YTK",
+                          "id": 109,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "OTK",
+                          "id": 110,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "TTK",
+                          "id": 111,
+                          "attr": {
+                            "style": {
+                              "background": "#ccffff"
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Koulutuskuntayhtymä",
+                      "id": 124,
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      105.92773437499932,
+                      -220.3124999999999,
+                      1
+                    ],
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "ILmatieteenlaitos",
+                  "id": 82,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "SGO",
+                  "id": 83,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Arktinen keskus",
+                  "id": 84,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Rovaniemen Kehhitys",
+                  "id": 97,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "MetLa",
+                  "id": 103,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
                 }
               },
-              "ideas": {}
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                },
+                "position": [
+                  29.302734374999318,
+                  482.0986328125001,
+                  13
+                ]
+              }
             },
-            "7.5": {
+            "0.5": {
               "title": "Kansalaiset",
-              "id": 52
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                },
+                "position": [
+                  26.490234374999318,
+                  -402.27636718749966,
+                  15
+                ]
+              }
             }
           },
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#ccffff"
+            },
             "position": [
-              395,
-              212.5,
-              43
-            ]
-          }
-        },
-        "14.875": {
-          "title": "Yksityinen",
-          "id": 50,
-          "attr": {
-            "style": {},
-            "position": [
-              165,
-              421,
-              44
+              618.3124999999999,
+              136.7499999999999,
+              49
             ]
           }
         }
       },
       "attr": {
         "position": [
-          195.5,
-          -270.5,
-          79
+          214.81250000000023,
+          -559.625,
+          126
         ],
-        "style": {}
+        "style": {
+          "background": "#ccffff"
+        }
       }
     },
     "0.234375": {
-      "title": "Lainsäädäntö ja viranomaismääräykset",
+      "title": "Strategiat, lainsäädäntö, viranomaismääräykset",
       "id": 6,
       "attr": {
-        "style": {},
+        "style": {
+          "background": "#ff99cc"
+        },
         "position": [
-          250.5,
-          -540,
-          115
+          129.18749999999977,
+          -730.6875,
+          129
         ],
         "storyboard-scenes": [
           {
@@ -240,15 +583,43 @@
       "ideas": {
         "1": {
           "title": "VM: yhteeentomivuus, tietohallintolaki, avoindata-ohjelma",
-          "id": 77
+          "id": 77,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
         },
         "2": {
           "title": "Juhta-suositukset / KA-menetelmä",
-          "id": 78
+          "id": 78,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
         },
         "3": {
           "title": "Tietoturva ja yksityisyydensuoja",
-          "id": 79
+          "id": 79,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        },
+        "4": {
+          "title": "Suomen Arkrtinen Strategia",
+          "id": 112,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://valtioneuvosto.fi/tiedostot/julkinen/arktinen_strategia/Suomen_arktinen_strategia_fi.pdf\">Suomen Arktinen Strategia 2013</a>"
+            },
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
         }
       }
     },
@@ -256,11 +627,13 @@
       "title": "SIsältö",
       "id": 75,
       "attr": {
-        "style": {},
+        "style": {
+          "background": "#0000ff"
+        },
         "position": [
-          736.5,
-          -331,
-          114
+          588.5624999999995,
+          -165.0625000000001,
+          130
         ]
       },
       "ideas": {
@@ -268,7 +641,9 @@
           "title": "Tieto",
           "id": 57,
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#0000ff"
+            },
             "position": [
               84,
               65,
@@ -285,51 +660,81 @@
               "id": 59,
               "ideas": {},
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#0000ff"
+                }
               }
             },
             "10": {
               "title": "Katalogi",
               "id": 58,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#0000ff"
+                }
               },
               "ideas": {}
             }
           },
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#0000ff"
+            }
           }
         },
         "6": {
           "title": "Roolit",
           "id": 39,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#0000ff"
+            }
           },
           "ideas": {
             "1": {
               "title": "Lähde  / tuottaja",
-              "id": 41
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             },
             "2": {
               "title": "Jalostaja",
               "id": 42,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             },
             "3": {
               "title": "Välittäjä",
-              "id": 44
+              "id": 44,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             },
             "4": {
               "title": "Hyödyntäjä",
-              "id": 45
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             },
             "0.5": {
               "title": "Omistaja",
               "id": 49,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#0000ff"
+                }
               }
             }
           }
@@ -338,14 +743,18 @@
           "title": "Informaatio",
           "id": 56,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#0000ff"
+            }
           }
         },
         "0.25": {
           "title": "Data",
           "id": 55,
           "attr": {
-            "style": {},
+            "style": {
+              "background": "#0000ff"
+            },
             "position": [
               110,
               -70,
@@ -355,30 +764,34 @@
         }
       }
     },
-    "-21": {
-      "title": "T&K-hankkeet ja ohjelmat",
-      "id": 17,
-      "attr": {
-        "style": {},
-        "position": [
-          198.5,
-          276,
-          113
-        ]
-      }
-    },
     "32.25": {
       "title": "Teknologiat",
       "id": 7,
       "attr": {
         "position": [
-          400.5,
-          126,
-          109
+          318.2499999999998,
+          105.24999999999977,
+          128
         ],
-        "style": {}
+        "style": {
+          "background": "#ffcc99"
+        }
       },
       "ideas": {
+        "1": {
+          "title": "Arkkitehtuuri",
+          "id": 120,
+          "attr": {
+            "position": [
+              78.125,
+              -196.8749999999999,
+              2
+            ],
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
         "2": {
           "title": "Tietojärjestelmät",
           "id": 70,
@@ -388,43 +801,168 @@
               -124,
               1
             ],
-            "style": {}
+            "style": {
+              "background": "#ffcc99"
+            }
           }
         },
         "4": {
           "title": "Ohjelmistot",
-          "id": 72
-        },
-        "5": {
-          "title": "Standardit",
-          "id": 73
+          "id": 72,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         },
         "6": {
           "title": "Integraatiot",
-          "id": 74
+          "id": 74,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         },
         "7": {
           "title": "Tietoliikenne",
-          "id": 76
+          "id": 76,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "8": {
+          "title": "Pilvipalvelut (SaaS, PaaS, DaaS)",
+          "id": 121,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "1.5": {
+          "title": "Standardit, käsite-, informaatio- ja tietomallit",
+          "id": 117,
+          "attr": {
+            "position": [
+              54.6875,
+              -167.1874999999999,
+              3
+            ],
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         }
       }
     },
-    "42.25": {
+    "11.2421875": {
       "title": "Rahoitus",
       "id": 4,
       "attr": {
+        "style": {
+          "background": "#99cc00"
+        },
         "position": [
-          288.5,
-          357,
-          112
-        ],
-        "style": {}
+          602.6249999999995,
+          -523.6875,
+          125
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Tekes",
+          "id": 93,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "Interreg Nord",
+          "id": 94,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "Lapin Liitto",
+          "id": 95,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "EAKR/ESR",
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "5": {
+          "title": "ELY-keskus",
+          "id": 98,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "TE-keskus",
+          "id": 99,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "7": {
+          "title": "Säätiöt ja rahastot",
+          "id": 100,
+          "ideas": {
+            "1": {
+              "title": "Sitra",
+              "id": 101,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "2": {
+              "title": "Finvera",
+              "id": 102,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
       }
     }
   },
   "links": [],
   "attr": {
-    "style": {},
+    "style": {
+      "background": "#000000"
+    },
     "storyboards": [
       "Storyboard 1"
     ]
