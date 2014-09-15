@@ -219,7 +219,7 @@
               },
               "attr": {
                 "style": {
-                  "background": "#ccffff"
+                  "background": "#ff0000"
                 }
               }
             },
@@ -228,16 +228,7 @@
               "id": 114,
               "attr": {
                 "style": {
-                  "background": "#ccffff"
-                }
-              }
-            },
-            "3": {
-              "title": "Kuntaliitto",
-              "id": 115,
-              "attr": {
-                "style": {
-                  "background": "#ccffff"
+                  "background": "#ff0000"
                 }
               }
             },
@@ -248,6 +239,20 @@
                 "style": {
                   "background": "#ccffff"
                 }
+              }
+            },
+            "14": {
+              "title": "Kuntaliitto",
+              "id": 115,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                },
+                "position": [
+                  69.875,
+                  157.0625,
+                  1
+                ]
               }
             }
           }
@@ -293,7 +298,7 @@
                   "id": 90,
                   "attr": {
                     "style": {
-                      "background": "#ccffff"
+                      "background": "#ff0000"
                     }
                   }
                 },
@@ -386,7 +391,7 @@
                           "id": 107,
                           "attr": {
                             "style": {
-                              "background": "#ccffff"
+                              "background": "#ff0000"
                             }
                           }
                         },
@@ -479,7 +484,7 @@
                   "id": 83,
                   "attr": {
                     "style": {
-                      "background": "#ccffff"
+                      "background": "#ff0000"
                     }
                   }
                 },
@@ -895,7 +900,7 @@
           "id": 95,
           "attr": {
             "style": {
-              "background": "#99cc00"
+              "background": "#ff0000"
             }
           }
         },
