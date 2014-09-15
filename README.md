@@ -1,8 +1,8 @@
-Avoimen tiedon käsitemallinnus (conceptualizing opendata)
+Avoimen tiedon malleja ja ekosysteemjä (opendata models and ecosystems)
 ===========================================================
 
-Avoimen datan ja tiedon käsiteperheen määrityksiä, kuvauksia, malleja ja diagrammeja.
+Avoimen datan ja tiedon käsiteperheen määrityksiä, kuvauksia, malleja, diagrammeja ja ekosysteemjä
 
-(Conceptual approaches, models, diagrams and specifications of #opendata and #openknowledge)
+(Conceptual approaches, models, diagrams, specifications and ecosystmes of #opendata and #openknowledge)
 
 
